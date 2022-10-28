@@ -1,0 +1,26 @@
+.coupling_card{
+    width: 92px;
+    height: 60px;
+    margin-right: 10px;
+    background-color:#6d6d6d ;
+    padding: 10px;
+    border-radius: 14px;
+}
+.coupling_title{
+    color: #323232;
+}
+.AC{
+    background-color: #0078D7;
+    border-color: #0078D7;
+    border-radius: 14px;
+    color: white;
+    border:none;
+}
+.DC{
+    margin-left: 10px;
+    background-color: #2b2b2b;
+    border-color: #2b2b2b;
+    border-radius: 14px;
+    color: white;
+    border:none;
+}

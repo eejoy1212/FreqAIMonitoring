@@ -1,0 +1,32 @@
+.graph{
+    background-color: #ccc;
+    /* height: 30px; */
+    width: 100%;
+    border-radius: 20px;
+}
+/* 실제 움직여질 요소는 span, graph는 배경 */
+.graph span{
+    width: 76%;
+    background-color: teal;
+    border-radius: 20px;
+    display: block;
+    text-align: right;
+    padding: 0 10px;
+    /* 박스사이징은 패딩값이 퍼센트로 먹는거를 자동으로 계산해서 빼 주는 것 */
+    box-sizing: border-box;
+    color: white;
+    animation: stack 2s 1;
+}
+@keyframes stack{
+0%{
+width: 0;
+color:rgba(255,255,255,0);
+}
+40%{
+
+color:rgba(255,255,255,1);
+}
+100%{
+    width: 76%;
+}
+}

@@ -1,0 +1,26 @@
+.config_card{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-color:#404040 ;
+    padding: 10px;
+    border-radius: 14px;
+    height: 26px;
+    width: 407px;
+    justify-content: space-between;
+}
+.title{
+    margin-right: 10px;
+    font-size: 14;
+}
+.connection_btn{
+    /* margin-left: 120px; */
+    font-size: 12px;
+    background-color: #0078D7;
+    border-color: #0078D7;
+    color: white;
+    height: 30px;
+    /* width: 78px; */
+    border-radius: 14px;
+}

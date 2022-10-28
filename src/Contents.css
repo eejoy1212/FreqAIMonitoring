@@ -1,0 +1,16 @@
+.bg_card{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    /* width: 1920px;
+    height: 1080px; */
+    background-color: #2a2a2a;
+    color: white;
+    align-items: center;
+/* position: fixed;
+    top:0; */
+}
+.config_and_status{
+    top: 0px;
+    margin-left: 23.17px;
+}

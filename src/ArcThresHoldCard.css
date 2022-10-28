@@ -1,0 +1,18 @@
+.arc_th_card{
+    /* height: 60px; */
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color:#6d6d6d ;
+    padding: 10px;
+    border-radius: 14px;
+}
+.arc_title_and_toggle{
+    display: flex;
+    flex-direction: row;
+}
+.toggle{
+    margin-left: 10px;
+}
+.input{
+    width: 215px;
+}

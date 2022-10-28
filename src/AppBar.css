@@ -1,0 +1,19 @@
+
+.App-header {
+    background-color: #202020;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    /* font-size: calc(10px + 2vmin); */
+    color: white;
+    padding: 10px;
+
+  }
+  .logo_img{
+    width: 100px;
+    height: 30px;
+  }
+  

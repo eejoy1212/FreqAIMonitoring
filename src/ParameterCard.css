@@ -1,0 +1,32 @@
+.parameter_card{
+    /* padding: 10px; */
+    margin-left: 23.17px;
+    background-color: #404040;
+    width: 600px;
+    height: 193px;
+    border-radius: 14px;
+}
+.pa_title{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+.div_gauge_and_others{
+    /* width: 580px; */
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 12px;
+}
+.coupling_and_div{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.thresholds{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-right: 10px;
+}

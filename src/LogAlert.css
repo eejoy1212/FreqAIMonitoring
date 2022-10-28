@@ -1,0 +1,18 @@
+.log_alert{
+    width: 364px;
+    height: 34px;
+background-color: #2D2D2D;
+border-radius: 14px;
+margin-left: 16px;
+
+  }
+  .log_txt{
+    text-align: start;
+    font-size: 14px;
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+    padding-left: 16px;
+    align-items: center;
+    
+  }
+  
